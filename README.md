@@ -1,4 +1,4 @@
-# Practicing CSS properties
+# Navbar and div styling
 
 Navbar for links to different websites as amazon, pinterest etc.
 Position property application on different div boxes.
